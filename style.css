@@ -1,4 +1,5 @@
-tml, body  html {
+
+Html, body  html {
     height:100vh;
     font-family: 'serif', Arial, Helvetica, sans-serif;
 }
@@ -76,10 +77,10 @@ background-color: rgb(50, 50, 50);
 } 
 
 .titulo2 {
-    
-    width: 100%;
-    padding-bottom: 30px;
     text-align:center;
+    width: 100%;
+    padding-bottom: 20px;
+    
 }
 
 
@@ -109,7 +110,7 @@ font-weight: bolder;
         padding: 4px 6px 4px 6px;
         float: left;
         width: auto;
-font-family: calibri;
+        font-family: calibri;
 }
 .titulocard2{
     color: white;
@@ -131,7 +132,7 @@ font-family: calibri;
     padding: 4px 6px 4px 6px;
     float: left;
     width: auto;
-
+    font-family: calibri;
 }
 .titulocard2ada{
     color: white;
